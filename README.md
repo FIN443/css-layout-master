@@ -10,4 +10,5 @@ with CSS
 - [Day 5](https://replit.com/@FIN443/CSS-Layout-Day-5)
 - [Day 8](https://replit.com/@FIN443/CSS-Layout-Day-8)
 - [Day 9](https://replit.com/@FIN443/CSS-Layout-Day-9)
-- [Day 1](https://replit.com/@FIN443/CSS-Layout-Day-11)
+- [Day 11](https://replit.com/@FIN443/CSS-Layout-Day-11)
+- [Day 12](https://replit.com/@FIN443/CSS-Layout-Day-12)
